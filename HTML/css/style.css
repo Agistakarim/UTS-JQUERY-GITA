@@ -1,0 +1,15 @@
+body {
+    font-famly: Arial, sans-serif ;
+    backround-color: hsl(0, 0%, 94%);
+  }
+  h1 {
+    color:black;
+  }
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color:green;
+  }
+  .text-special {
+    font-weight: bold;
+  }
